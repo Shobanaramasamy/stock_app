@@ -1,0 +1,32 @@
+[
+    {
+      "symbol": "AAPL",
+      "openPrice": 150.23,
+      "refreshInterval": 3,
+      "price": 152.45
+    },
+    {
+      "symbol": "GOOGL",
+      "openPrice": 2800.11,
+      "refreshInterval": 2,
+      "price": 2785.36
+    },
+    {
+      "symbol": "MSFT",
+      "openPrice": 300.50,
+      "refreshInterval": 4,
+      "price": 305.20
+    },
+    {
+      "symbol": "AMZN",
+      "openPrice": 3500.00,
+      "refreshInterval": 1,
+      "price": 3520.75
+    },
+    {
+      "symbol": "TSLA",
+      "openPrice": 800.75,
+      "refreshInterval": 5,
+      "price": 795.40
+    }
+  ]
